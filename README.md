@@ -10,7 +10,7 @@
 
 # Books
 
-## Dive into Deep Learning
+## [Dive into Deep Learning](https://d2l.ai/)
 
 An interactive deep learning book with code, math, and discussions, based on the NumPy interface by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola. With 900 pages, this seems to be one of the most comprehensive one-stop resources that goes from Linear Neural Networks and Multilayer Perceptrons all the way to modern Deep Learning architectures including Attention Mechanisms and Optimization Algorithms – giving you all three: Theory, Math & Code.
 
