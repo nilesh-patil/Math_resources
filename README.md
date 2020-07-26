@@ -19,7 +19,7 @@ An interactive deep learning book with code, math, and discussions, based on the
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/images/d2lai.gif" width="600"></p>](http://d2l.ai/)
 
 
-## Math for Machine Learning
+## [Math for Machine Learning](https://mml-book.github.io/)
 
 Note: We have bi-weekly remote reading sessions goingthrough all chapters of the book. If you'd like to join check out this [blog post](https://machinelearningtokyo.com/2019/11/28/ml-math-reading-sessions/) and join us on [Meetup](https://www.meetup.com/Machine-Learning-Tokyo/).
 
